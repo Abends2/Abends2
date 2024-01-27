@@ -8,6 +8,8 @@
 
 **CTF Team**: [o1d_bu7_go1d](https://ctftime.org/team/213673)
 
+**My GitBook**: [F8 Cybersecurity](https://o1d-bu7-go1d.gitbook.io/cybersecurity-f8/)
+
 ---
 <h3 align="center">TryHackMe Stats</h3>
 
