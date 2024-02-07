@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I'm Abends!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<p align="center"><img src="screenshots/logo.png" alt="GitLogo"></p>
+<p align="center"><img src="../main/screenshots/logo.jpg" alt="GitLogo"></p>
 
 ---
 
