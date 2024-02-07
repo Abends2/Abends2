@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,postgres,sqlite,c,go,python,flask,css,html" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,postgres,sqlite,c,go,php,python,flask,css,html" />
   </a>
 </p>
 
@@ -40,3 +40,5 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Abends2&show_icons=true&locale=en&theme=chartreuse-dark" alt="Abends2" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abends2&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Abends2" /></p>
+
+<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Abends&color=000000"></a>
