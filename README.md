@@ -37,7 +37,7 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Abends2&show_icons=true&locale=en&theme=chartreuse-dark" alt="Abends2" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abends2&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Abends2" /></p>
 
